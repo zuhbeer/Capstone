@@ -2,7 +2,7 @@
 
  Why did I choose this capstone? The graph below contains data that I manually entered from an NOAA pdf 
 
-![Screenshot](https://github.com/zuhbeer/Capstone/blob/caps/deaths.png =200x200)
+<img src="https://github.com/zuhbeer/Capstone/blob/caps/deaths.png" width="600">
 
 This made me curious, are storms getting worse in Texas?
 
@@ -23,8 +23,8 @@ The head of the dataframe is shown below; I was only interested in the Serial_Nu
 
 Before I constrained my dataset to Texas & and the Gulf, I was curious to see what the data world wide looked like.
 
-![Screenshot](https://github.com/zuhbeer/Capstone/blob/caps/1900%20frequency.png =200x200)
-![Screenshot](https://github.com/zuhbeer/Capstone/blob/caps/1900%20intensity.png =200x200)
+<img src="https://github.com/zuhbeer/Capstone/blob/caps/1900%20frequency.png" width="700">
+<img src="https://github.com/zuhbeer/Capstone/blob/caps/1900%20intensity.png" width="700">
 
 These graphs triggered my spidey senses, I could not in good conscience run statistical tests on these datasets as there is an obvious change in the methodology of recording storm data around the 1960s. I decided to set the bar for my analyses at 1969, when stable weather satellites began recording data for NASA and the NOAA.
 
@@ -34,20 +34,21 @@ One other parameter I used to refine my data was a wind speed of 34+ knots (40 m
 
 Below is the same worldwide tropical cyclone data, but refined for years 1969-2017 , and 34+ knots wind speed
 
-![Screenshot](https://github.com/zuhbeer/Capstone/blob/caps/1969%20frequency.png)
-![Screenshot](https://github.com/zuhbeer/Capstone/blob/caps/1969%20intensity.png)
+
+<img src="https://github.com/zuhbeer/Capstone/blob/caps/1969%20frequency.png" width="600">
+<img src="https://github.com/zuhbeer/Capstone/blob/caps/1969%20intensity.png" width="600">
 
 N. Atlantic data
 
-![Screenshot](https://github.com/zuhbeer/Capstone/blob/caps/N.Atl%20freq.png)
-![Screenshot](https://github.com/zuhbeer/Capstone/blob/caps/N.Atl%20int.png)
+<img src="https://github.com/zuhbeer/Capstone/blob/caps/N.Atl%20freq.png" width="600">
+<img src="https://github.com/zuhbeer/Capstone/blob/caps/N.Atl%20int.png" width="600">
 
 The map below shows the boundaries I used to analyze storms around Texas
 
-![Screenshot](https://github.com/zuhbeer/Capstone/blob/caps/Screen%20Shot%20Gulf.png)
+<img src="https://github.com/zuhbeer/Capstone/blob/caps/Screen%20Shot%20Gulf.png" width="600">
 
 
-![Screenshot](https://github.com/zuhbeer/Capstone/blob/caps/Gulf%20freq.png)
-![Screenshot](https://github.com/zuhbeer/Capstone/blob/caps/Gulf%20int.png)
+<img src="https://github.com/zuhbeer/Capstone/blob/caps/Gulf%20freq.png" width="600">
+<img src="https://github.com/zuhbeer/Capstone/blob/caps/Gulf%20int.png" width="600">
 
 
