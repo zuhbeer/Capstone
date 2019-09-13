@@ -1,4 +1,4 @@
-## Tropical Cyclone data around Texas
+# Tropical Cyclone data around Texas
 
  Why did I choose this capstone? The graph below contains data that I manually entered from an NOAA pdf 
 
@@ -30,6 +30,7 @@ These graphs triggered my spidey senses, I could not in good conscience run stat
 
 One other parameter I used to refine my data was a wind speed of 34+ knots (40 mph). This is the 1-minute sustained wind speed measurement that classifies a tropical cyclone, with category 1 hurricanes starting at 64 knots (74 mph).
 
+
 ## Storm frequecy & intensity for the World, N. Atlantic, and Texas/Gulf area
 
 Below is the same worldwide tropical cyclone data, but refined for years 1969-2017 , and 34+ knots wind speed
@@ -38,14 +39,21 @@ Below is the same worldwide tropical cyclone data, but refined for years 1969-20
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/1969%20frequency.png" width="600">
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/1969%20intensity.png" width="600">
 
-N. Atlantic data
+
+## N. Atlantic Data
 
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/N.Atl%20freq.png" width="600">
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/N.Atl%20int.png" width="600">
 
+
+## Texas & Gulf Data
+
+
 The map below shows the boundaries I used to analyze storms around Texas
 
+
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/Screen%20Shot%20Gulf.png" width="600">
+
 
 
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/Gulf%20freq.png" width="600">
