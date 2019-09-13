@@ -80,7 +80,7 @@ The results for the world, N.Atlantic, and Texas are as follows
 
 ## Globaly
 
-<img src="https://github.com/zuhbeer/Capstone/blob/caps/World_ttest.png" width="600">
+<img src="https://github.com/zuhbeer/Capstone/blob/caps/globalcount.png" width="300"><img src="https://github.com/zuhbeer/Capstone/blob/caps/World_ttest.png" width="400">
 
     Sample size = 3,548
 
@@ -93,7 +93,7 @@ For the world, I can safely reject my null hypothesis as the P value is 3%, unde
 
 ## North Atlantic
 
-<img src="https://github.com/zuhbeer/Capstone/blob/caps/NAtl_ttest.png" width="600">
+<img src="https://github.com/zuhbeer/Capstone/blob/caps/NAtlanticount.png" width="300"><img src="https://github.com/zuhbeer/Capstone/blob/caps/NAtl_ttest.png" width="400">
 
 
     Sample size = 575
@@ -107,7 +107,7 @@ For the North Atlantic, I can absolutely demolish my null hypothesis as the P va
 
 ## The Gulf & Texas
 
-<img src="https://github.com/zuhbeer/Capstone/blob/caps/TX_ttest.png" width="600">
+<img src="https://github.com/zuhbeer/Capstone/blob/caps/Gulfcount.png" width="300"><img src="https://github.com/zuhbeer/Capstone/blob/caps/TX_ttest.png" width="400"> 
 
      Sample size = 70
 
