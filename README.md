@@ -33,7 +33,9 @@ One other parameter I used to refine my data was a wind speed of 34+ knots (40 m
 
 ## Storm frequecy & intensity for the World, N. Atlantic, and Texas/Gulf area
 
-Below is the same worldwide tropical cyclone data, but refined for years 1969-2017 , and 34+ knots wind speed
+Below is the same worldwide tropical cyclone data, but refined for years 1969-2017 , and 34+ knots wind speed.
+
+Sample size is 3,548
 
 
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/1969%20frequency.png" width="600">
@@ -41,6 +43,8 @@ Below is the same worldwide tropical cyclone data, but refined for years 1969-20
 
 
 ## N. Atlantic Data
+
+Sample size is 575
 
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/N.Atl%20freq.png" width="600">
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/N.Atl%20int.png" width="600">
@@ -54,7 +58,7 @@ The map below shows the boundaries I used to analyze storms around Texas
 
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/Screen%20Shot%20Gulf.png" width="600">
 
-
+Sample size is 70
 
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/Gulf%20freq.png" width="600">
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/Gulf%20int.png" width="600">
