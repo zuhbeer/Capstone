@@ -35,7 +35,7 @@ One other parameter I used to refine my data was a wind speed of 34+ knots (40 m
 
 Below is the same worldwide tropical cyclone data, but refined for years 1969-2017 , and 34+ knots wind speed.
 
-Sample size is 3,548
+    Sample size is 3,548
 
 
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/1969%20frequency.png" width="600">
@@ -44,7 +44,7 @@ Sample size is 3,548
 
 ## N. Atlantic Data
 
-Sample size is 575
+    Sample size is 575
 
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/N.Atl%20freq.png" width="600">
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/N.Atl%20int.png" width="600">
@@ -58,7 +58,7 @@ The map below shows the boundaries I used to analyze storms around Texas
 
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/Screen%20Shot%20Gulf.png" width="700">
 
-Sample size is 70
+    Sample size is 70
 
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/Gulf%20freq.png" width="600">
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/Gulf%20int.png" width="600">
@@ -82,11 +82,11 @@ Globaly
 
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/world_ttest.png" width="600">
 
-Sample size = 3,548
+    Sample size = 3,548
 
-The means are 66.56 and 78.50 respectively
+    The means are 66.56 and 78.50 respectively
 
-P value = 0.03600669266460539
+    P value = 0.03600669266460539
 
 For the world, I can safely reject my null hypothesis as the P value is 3%, under my 5% threshold 
 
@@ -96,11 +96,11 @@ North Atlantic
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/NAtl_ttest.png" width="600">
 
 
-Sample size = 575
+    Sample size = 575
 
-The means are 9.76 and 13.79 respectively
+    The means are 9.76 and 13.79 respectively
 
-P value = 0.00312978634567752
+    P value = 0.00312978634567752
 
 For the North Atlantic, I can absolutely demolish my null hypothesis as the P value is .3%, way under my 5% threshold 
 
@@ -109,11 +109,11 @@ The Gulf & Texas
 
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/TX_ttest.png" width="600">
 
-Sample size = 70
+     Sample size = 70
 
-The means are 1.32 and 1.54 respectively
+     The means are 1.32 and 1.54 respectively
 
-P value = 0.54764510528614
+     P value = 0.54764510528614
 
 For the Gulf and Texas coastline, I fail to reject the null hypothesis as my P value is 54%, greater than the 5% threshhold
 
