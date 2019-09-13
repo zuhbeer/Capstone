@@ -123,7 +123,9 @@ I failed to reject my null hypothesis that tropical cyclones are not increasing 
 
 On the bright side, I have statistically significant evidence of tropical cyclones increasing around the world and especially in the N. Atlantic, a better understanding of dataframes and statistics, and all the friends I made along the way.
 
-This first capstone has been an excellent learning experience, and for near future work I plan to merge different datasets (insurance data, death toll, temperature, etc.) with my storm data to find any correlations. I also plan on using Flask App to let users play around with the parameters and return graphs and t-tests of storms in varying years, locations, and intensities.
+This first capstone has been an excellent learning experience; these projects take a lot more time than you'd expect and formulating a testable hypothesis with "retrievable" datasets is cruicial. For near future work I plan to merge different datasets (insurance data, death toll, temperature, etc.) with my storm data to find any correlations. I also plan on using Flask App to let users play around with the parameters and return graphs and t-tests of storms in varying years, locations, and intensities. Additionally, I'd like to learn how to use basemap and/or geopandas to map the path of the storm systems. This will take time but slow learning is still learning.
+
+<img src="https://github.com/zuhbeer/Capstone/blob/caps/basemap_hurricaneTrack.png" width="420">
 
 ## References
 
