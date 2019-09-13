@@ -80,7 +80,7 @@ The results for the world, N.Atlantic, and Texas are as follows
 
 ## Globaly
 
-<img src="https://github.com/zuhbeer/Capstone/blob/caps/world_ttest.png" width="600">
+<img src="https://github.com/zuhbeer/Capstone/blob/caps/World_ttest.png" width="600">
 
     Sample size = 3,548
 
