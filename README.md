@@ -1,5 +1,4 @@
-# Capstone
-Tropical Cyclone data around Texas
+##Tropical Cyclone data around Texas
 
 Why did I choose this capstone? The graph below contains data that I manually entered from an NOAA pdf 
 
@@ -7,9 +6,9 @@ Why did I choose this capstone? The graph below contains data that I manually en
 
 This made me curious, are storms getting worse in Texas?
 
-Null Hypothesis- Storms are NOT increasing around Texas
+#Null Hypothesis- Storms are NOT increasing around Texas
 
-Alternative Hypothesis- Storms are increasing around texas
+#Alternative Hypothesis- Storms are increasing around texas
 
 
 
