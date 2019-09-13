@@ -56,7 +56,7 @@ Sample size is 575
 The map below shows the boundaries I used to analyze storms around Texas
 
 
-<img src="https://github.com/zuhbeer/Capstone/blob/caps/Screen%20Shot%20Gulf.png" width="600">
+<img src="https://github.com/zuhbeer/Capstone/blob/caps/Screen%20Shot%20Gulf.png" width="700">
 
 Sample size is 70
 
