@@ -10,7 +10,7 @@ This made me curious, are storms getting worse in Texas?
 
 ## Alternative Hypothesis- Tropical cyclones are increasing around texas
 
-A tropical cyclone is any storm system that gains to a speed of 34 knots, more intense than a tropical 
+A tropical cyclone is any rotating storm system that gains to a speed of 34 knots. 
 
 
 I pulled a large csv file from the NOAA - https://www.ncdc.noaa.gov/ibtracs/index.php?name=wmo-data -
