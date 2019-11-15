@@ -26,7 +26,7 @@ Before I constrained my dataset to Texas & and the Gulf, I was curious to see wh
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/1900%20frequency.png" width="700">
 <img src="https://github.com/zuhbeer/Capstone/blob/caps/1900%20intensity.png" width="700">
 
-These graphs triggered my spidey senses, I could not in good conscience run statistical tests on these datasets as there is an obvious change in the methodology of recording storm data around the 1960s. I decided to set the bar for my analyses at 1969, when stable weather satellites began recording data for NASA and the NOAA.
+I could not in good conscience run statistical tests on these datasets as there is an obvious change in the methodology of recording storm data around the 1960s. I decided to set the bar for my analyses at 1969, when stable weather satellites began recording data for NASA and the NOAA.
 
 One other parameter I used to refine my data was a wind speed of 34+ knots (40 mph). This is the 1-minute sustained wind speed measurement that classifies a tropical cyclone, with category 1 hurricanes starting at 64 knots (74 mph).
 
